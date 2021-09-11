@@ -1,0 +1,15 @@
+{
+    "name": "page-synchronizer",
+    "author": "Yoshiki Ohshima",
+    "version": "1.0.0",
+    "license": "Apache 2.0 License",
+    "main": "synchronizer.js",
+    "files": [
+        "synchronizer.min.js",
+        "LICENSE"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": ["croquet", "scroll", "synchronization"]
+}
