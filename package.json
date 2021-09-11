@@ -1,9 +1,9 @@
 {
     "name": "page-synchronizer",
     "author": "Yoshiki Ohshima",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": "Apache 2.0 License",
-    "main": "synchronizer.js",
+    "main": "synchronizer.min.js",
     "files": [
         "synchronizer.min.js",
         "LICENSE"
