@@ -7,7 +7,7 @@ You add the following a few lines to the page and then viewing the page becomes 
 
 ~~~~~~~~ HTML
 <script src="https://unpkg.com/@croquet/croquet"></script>
-<script src="https://unpkg.com/page-synchronizer@1.0.4"></script>
+<script src="https://unpkg.com/page-synchronizer@1.0.7"></script>
 <script type="text/javascript">
 if (window.location.search !== "") {
     SimplePageView.start({
